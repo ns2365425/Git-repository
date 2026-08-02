@@ -1,2 +1,4 @@
 Version Control System : A version control system track changes made to files and source code.
 It allow developers to restore previous version of a project.
+Snapshots : Represents some data of particular time.
+            It is always incremental i.e. It stores the changes (appended data) Only not entire copy.
